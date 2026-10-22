@@ -74,7 +74,7 @@
 
 ```bash
 git clone https://github.com/ZHIXIANGMO/ian---illustrations.git
-cd ian---illustrations
+cd ian-juzitou--illustrations
 ```
 
 复制 skill 到 Codex skills 目录：
